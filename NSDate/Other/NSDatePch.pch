@@ -1,0 +1,14 @@
+//
+//  NSDatePch.pch
+//  NSDate
+//
+//  Created by 李自杨 on 2017/5/3.
+//  Copyright © 2017年 View. All rights reserved.
+//
+
+#ifndef NSDatePch_pch
+#define NSDatePch_pch
+
+#import "NSDateHeader.h"
+
+#endif /* NSDatePch_pch */
